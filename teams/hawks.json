@@ -1,0 +1,49 @@
+{
+  "players": [
+    {
+      "name": "Trae Young",
+      "position": 1,
+      "insideScoring": 8,
+      "threePointShooting": 6,
+      "playmaking": 9,
+      "rebounding": 2,
+      "defense": 1
+    },
+    {
+      "name": "Kevin Huerter",
+      "position": 2,
+      "insideScoring": 6,
+      "threePointShooting": 8,
+      "playmaking": 6,
+      "rebounding": 4,
+      "defense": 6
+    },
+    {
+      "name": "Deandre Hunter",
+      "position": 3,
+      "insideScoring": 6,
+      "threePointShooting": 7,
+      "playmaking": 5,
+      "rebounding": 6,
+      "defense": 8
+    },
+    {
+      "name": "John Collins",
+      "position": 4,
+      "insideScoring": 8,
+      "threePointShooting": 6,
+      "playmaking": 4,
+      "rebounding": 7,
+      "defense": 6
+    },
+    {
+      "name": "Clint Capela",
+      "position": 5,
+      "insideScoring": 8,
+      "threePointShooting": 0,
+      "playmaking": 2,
+      "rebounding": 9,
+      "defense": 8
+    }
+  ]
+}

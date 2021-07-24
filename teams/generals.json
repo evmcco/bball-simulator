@@ -1,0 +1,49 @@
+{
+  "players": [
+    {
+      "name": "Russell Westbrook",
+      "position": 1,
+      "insideScoring": 6,
+      "threePointShooting": 4,
+      "playmaking": 8,
+      "rebounding": 6,
+      "defense": 4
+    },
+    {
+      "name": "Devin Booker",
+      "position": 2,
+      "insideScoring": 6,
+      "threePointShooting": 8,
+      "playmaking": 6,
+      "rebounding": 4,
+      "defense": 5
+    },
+    {
+      "name": "Kevin Durant",
+      "position": 3,
+      "insideScoring": 8,
+      "threePointShooting": 9,
+      "playmaking": 6,
+      "rebounding": 5,
+      "defense": 7
+    },
+    {
+      "name": "Zion Williamson",
+      "position": 4,
+      "insideScoring": 10,
+      "threePointShooting": 7,
+      "playmaking": 5,
+      "rebounding": 7,
+      "defense": 5
+    },
+    {
+      "name": "Giannis",
+      "position": 5,
+      "insideScoring": 10,
+      "threePointShooting": 2,
+      "playmaking": 6,
+      "rebounding": 9,
+      "defense": 9
+    }
+  ]
+}
